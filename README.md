@@ -1,2 +1,7 @@
 # locations
-Example output struct c++
+
+Conditions you see [link](https://github.com/netology-code/cppm-homeworks/tree/main/02/03)
+
+## Example output struct c++
+This application take content with locations of in.txt create intances struct
+and output to console.
