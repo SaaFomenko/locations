@@ -3,11 +3,11 @@
 
 struct lable_location
 {
-	static const std::string city;
-	static const std::string street;
-	static const std::string house;
-	static const std::string flat;
-	static const std::string index;
+	const std::string city = "Город: ";
+	const std::string street = "Улица: ";
+	const std::string house = "Номер дома: ";
+	const std::string flat = "Номер квартиры: ";
+	const std::string index = "Индекс: ";
 };
 
 struct location
