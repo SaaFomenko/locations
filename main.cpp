@@ -1,6 +1,12 @@
 #include <iostream>
 #include "define.h"
 
+const std::string lable_location::city = "Город: ";
+const std::string lable_location::street = "Улица: ";
+const std::string lable_location::house = "Номер дома: ";
+const std::string lable_location::flat = "Номер квартиры: ";
+const std::string lable_location::index = "Индекс: ";
+
 int main()
 {
 	const char* in_file = { "./in.txt" };
